@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-# node_modules  <-- Remove or comment out this line
 
 /.pnp
 .pnp.js
